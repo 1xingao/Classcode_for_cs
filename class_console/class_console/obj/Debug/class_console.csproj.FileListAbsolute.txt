@@ -1,0 +1,7 @@
+D:\abcin\code\Class\class_console\class_console\bin\Debug\class_console.exe.config
+D:\abcin\code\Class\class_console\class_console\bin\Debug\class_console.exe
+D:\abcin\code\Class\class_console\class_console\bin\Debug\class_console.pdb
+D:\abcin\code\Class\class_console\class_console\obj\Debug\class_console.csproj.AssemblyReference.cache
+D:\abcin\code\Class\class_console\class_console\obj\Debug\class_console.csproj.CoreCompileInputs.cache
+D:\abcin\code\Class\class_console\class_console\obj\Debug\class_console.exe
+D:\abcin\code\Class\class_console\class_console\obj\Debug\class_console.pdb
