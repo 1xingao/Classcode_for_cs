@@ -1,0 +1,14 @@
+D:\abcin\code\Class\classcode_3\classcode_3\bin\Debug\netcoreapp3.1\classcode_3.exe
+D:\abcin\code\Class\classcode_3\classcode_3\bin\Debug\netcoreapp3.1\classcode_3.deps.json
+D:\abcin\code\Class\classcode_3\classcode_3\bin\Debug\netcoreapp3.1\classcode_3.runtimeconfig.json
+D:\abcin\code\Class\classcode_3\classcode_3\bin\Debug\netcoreapp3.1\classcode_3.runtimeconfig.dev.json
+D:\abcin\code\Class\classcode_3\classcode_3\bin\Debug\netcoreapp3.1\classcode_3.dll
+D:\abcin\code\Class\classcode_3\classcode_3\bin\Debug\netcoreapp3.1\classcode_3.pdb
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.csproj.AssemblyReference.cache
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.AssemblyInfoInputs.cache
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.AssemblyInfo.cs
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.csproj.CoreCompileInputs.cache
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.dll
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.pdb
+D:\abcin\code\Class\classcode_3\classcode_3\obj\Debug\netcoreapp3.1\classcode_3.genruntimeconfig.cache
