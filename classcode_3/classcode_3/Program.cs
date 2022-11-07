@@ -6,13 +6,13 @@ namespace classcode_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("请输入转换方式\ntips:0为弧度转角度，1为角度转弧度");
+            Console.WriteLine("请输入转换方式\ntips:0为弧度转角度,1为角度转弧度");
             string tp = Console.ReadLine();
             Func test = new Func();
             
             if(tp == "1")
             {
-                Console.WriteLine("请输入角度(dd.mmss格式)：");
+                Console.WriteLine("请输入角度(dd.mmss格式):");
                 string dms = Console.ReadLine();
                 Console.WriteLine( "转换的弧度为{0:F6}",test.DMS2Hu(Convert.ToDouble(dms)));
 
