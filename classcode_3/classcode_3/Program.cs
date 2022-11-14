@@ -21,7 +21,7 @@ namespace classcode_3
             {
                 Console.WriteLine("请输入弧度：");
                 string hu = Console.ReadLine();
-                Console.WriteLine("转换的角度为{0:F6}(dd.mmss格式)",test.Hu2DMS(Convert.ToDouble(hu)));
+                Console.WriteLine("转换的角度为{0:F8}(dd.mmss格式)",test.Hu2DMS(Convert.ToDouble(hu)));
             }
             Console.ReadKey();
 

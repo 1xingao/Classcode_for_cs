@@ -1,0 +1,14 @@
+D:\abcin\code\Class\classs_4\classs_4\bin\Debug\netcoreapp3.1\classs_4.exe
+D:\abcin\code\Class\classs_4\classs_4\bin\Debug\netcoreapp3.1\classs_4.deps.json
+D:\abcin\code\Class\classs_4\classs_4\bin\Debug\netcoreapp3.1\classs_4.runtimeconfig.json
+D:\abcin\code\Class\classs_4\classs_4\bin\Debug\netcoreapp3.1\classs_4.runtimeconfig.dev.json
+D:\abcin\code\Class\classs_4\classs_4\bin\Debug\netcoreapp3.1\classs_4.dll
+D:\abcin\code\Class\classs_4\classs_4\bin\Debug\netcoreapp3.1\classs_4.pdb
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.csproj.AssemblyReference.cache
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.AssemblyInfoInputs.cache
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.AssemblyInfo.cs
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.csproj.CoreCompileInputs.cache
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.dll
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.pdb
+D:\abcin\code\Class\classs_4\classs_4\obj\Debug\netcoreapp3.1\classs_4.genruntimeconfig.cache
