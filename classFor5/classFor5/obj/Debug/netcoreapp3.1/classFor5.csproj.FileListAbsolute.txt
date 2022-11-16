@@ -1,0 +1,14 @@
+D:\abcin\code\Class\classFor5\classFor5\bin\Debug\netcoreapp3.1\classFor5.exe
+D:\abcin\code\Class\classFor5\classFor5\bin\Debug\netcoreapp3.1\classFor5.deps.json
+D:\abcin\code\Class\classFor5\classFor5\bin\Debug\netcoreapp3.1\classFor5.runtimeconfig.json
+D:\abcin\code\Class\classFor5\classFor5\bin\Debug\netcoreapp3.1\classFor5.runtimeconfig.dev.json
+D:\abcin\code\Class\classFor5\classFor5\bin\Debug\netcoreapp3.1\classFor5.dll
+D:\abcin\code\Class\classFor5\classFor5\bin\Debug\netcoreapp3.1\classFor5.pdb
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.csproj.AssemblyReference.cache
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.GeneratedMSBuildEditorConfig.editorconfig
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.AssemblyInfoInputs.cache
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.AssemblyInfo.cs
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.csproj.CoreCompileInputs.cache
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.dll
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.pdb
+D:\abcin\code\Class\classFor5\classFor5\obj\Debug\netcoreapp3.1\classFor5.genruntimeconfig.cache
