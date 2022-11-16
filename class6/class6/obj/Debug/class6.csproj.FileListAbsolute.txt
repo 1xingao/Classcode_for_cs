@@ -1,0 +1,7 @@
+D:\abcin\code\Class\class6\class6\bin\Debug\class6.exe.config
+D:\abcin\code\Class\class6\class6\bin\Debug\class6.exe
+D:\abcin\code\Class\class6\class6\bin\Debug\class6.pdb
+D:\abcin\code\Class\class6\class6\obj\Debug\class6.csproj.AssemblyReference.cache
+D:\abcin\code\Class\class6\class6\obj\Debug\class6.csproj.CoreCompileInputs.cache
+D:\abcin\code\Class\class6\class6\obj\Debug\class6.exe
+D:\abcin\code\Class\class6\class6\obj\Debug\class6.pdb
