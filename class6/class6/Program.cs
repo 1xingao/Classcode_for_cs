@@ -1,14 +1,70 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace class6
 {
+    class student
+    {
+        public int grade;
+        public string name;
+        public student(int _grade, string _name)
+        {
+            grade = _grade;
+            name = _name;
+        }
+    };
+
+
     class Program
     {
         static void Main(string[] args)
+        {
+            Soluation(); //方法一
+
+        }
+
+        /// <summary>
+        /// 方法二
+        /// </summary>
+        static void Soluation2()
+        {
+            List<student> stu = new List<student>();
+            Program Func = new Program();
+            System.Random ran = new System.Random();
+            var Name_List = Func.GetName();
+            int n = 58;
+            for (int i = 0; i < n; i++)
+            {
+                stu.Add(new student(ran.Next(50, 101), Name_List[i]));
+            }
+
+            qsort(ref stu);
+            for (int i = 0; i < 58; i++)
+            {
+                Console.WriteLine($"{stu[i].name}的成绩为{stu[i].grade}");
+            }
+            
+            Console.ReadKey();
+
+        }
+        //冒泡排序
+        private static void qsort(ref List<student> stu)
+        {
+            for (int i = 0; i < 58; i++)
+            {
+                for (int j = 0; j < 58; j++)
+                {
+                    if (stu[i].grade > stu[j].grade)
+                    {
+                        var temp = stu[i];
+                        stu[i] = stu[j];
+                        stu[j] = temp;
+                    }
+                }
+            }
+        }
+        static void Soluation()
         {
             var Func = new Program();
             System.Random ran = new System.Random();
@@ -28,7 +84,7 @@ namespace class6
                 #region .
                 if (Name_List[i] == "邢骜") { Name_List[i] += "(这是我，哎嘿)"; }
                 if (Name_List[i] == "袁嘉琳") { Name_List[i] += "(这是我的倒霉室友)"; }
-                #endregion
+                #endregion .
                 dict.Add(Name_List[i], grade_list[i]);
             }
             var sortedDict = dict.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
@@ -50,8 +106,9 @@ namespace class6
                     Fif_List[next] = value.Key;
                 }
                 next++;
-                if (next == 58) { Console.WriteLine(value + "这个小伙子水平有点低啊"); break; }
-                Console.WriteLine(value);
+                if (next == 58) { Console.WriteLine("\n\n" + value + "这个小伙子水平有点低啊"); break; }
+                Console.Write(value + " -------  ");
+                if (next % 3 == 0) { Console.Write("\n"); }
             }
 
 
@@ -77,10 +134,9 @@ namespace class6
             }
             Console.WriteLine($"优秀率为{(A / 58.0) * 100:F3}%");
             Console.ReadKey();
-
         }
         //生成名字列表
-        string[] GetName()
+        private string[] GetName()
         {
             string[] xing = new string[8] { "邢", "谢", "袁", "张", "陶", "杨", "蔡", "胡" };
             string[] name = new string[8] { "嘉琳", "正博", "骜", "欢", "凯夫", "仔怡", "茜", "雨萌" };
