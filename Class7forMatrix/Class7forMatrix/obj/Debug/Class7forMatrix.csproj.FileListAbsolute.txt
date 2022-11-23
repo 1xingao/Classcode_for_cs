@@ -1,0 +1,7 @@
+D:\abcin\code\Class\Class7forMatrix\Class7forMatrix\bin\Debug\Class7forMatrix.exe.config
+D:\abcin\code\Class\Class7forMatrix\Class7forMatrix\bin\Debug\Class7forMatrix.exe
+D:\abcin\code\Class\Class7forMatrix\Class7forMatrix\bin\Debug\Class7forMatrix.pdb
+D:\abcin\code\Class\Class7forMatrix\Class7forMatrix\obj\Debug\Class7forMatrix.csproj.AssemblyReference.cache
+D:\abcin\code\Class\Class7forMatrix\Class7forMatrix\obj\Debug\Class7forMatrix.csproj.CoreCompileInputs.cache
+D:\abcin\code\Class\Class7forMatrix\Class7forMatrix\obj\Debug\Class7forMatrix.exe
+D:\abcin\code\Class\Class7forMatrix\Class7forMatrix\obj\Debug\Class7forMatrix.pdb
