@@ -1,0 +1,7 @@
+D:\abcin\code\Class\classFor 12\classFor 12\bin\Debug\classFor 12.exe.config
+D:\abcin\code\Class\classFor 12\classFor 12\bin\Debug\classFor 12.exe
+D:\abcin\code\Class\classFor 12\classFor 12\bin\Debug\classFor 12.pdb
+D:\abcin\code\Class\classFor 12\classFor 12\obj\Debug\classFor 12.csproj.AssemblyReference.cache
+D:\abcin\code\Class\classFor 12\classFor 12\obj\Debug\classFor 12.csproj.CoreCompileInputs.cache
+D:\abcin\code\Class\classFor 12\classFor 12\obj\Debug\classFor 12.exe
+D:\abcin\code\Class\classFor 12\classFor 12\obj\Debug\classFor 12.pdb

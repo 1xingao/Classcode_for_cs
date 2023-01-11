@@ -18,9 +18,11 @@ namespace Class7forMatrix
                 {
                     Calc.multiplyMat();
                 }
-                else
+                else if(temp == "3")
                 {
                     Calc.Inverse();
+                }else{
+                    return ;
                 }
                 Console.ReadKey();
             }
